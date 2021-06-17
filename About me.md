@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prateek Dutta
+- 👋 Hi, I’m Prateek Dutta, an AI Engineer & Data Analyst/ Scientist & a Young Researcher
 - 👀 I’m interested in AIML, Data Science and Research domain
 - 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
 - 💞️ I’m looking to collaborate on Research Works
