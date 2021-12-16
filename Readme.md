@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Prateek Dutta, an AI Engineer & Data Analyst/ Scientist & a Young Researcher
 - 👀 I’m interested in AIML, Data Science and Research domain
+- Research Intern at Curtin University, Malaysia
 - 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
 - 💞️ I’m looking to collaborate on Research Works
 - 📫 Reach me at prateekdutta2001@gmail.com or https://www.linkedin.com/in/prateek-dutta-3622821a1/
