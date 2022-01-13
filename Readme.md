@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
 - 💞️ I’m looking to collaborate on Research Works
 - 📫 Reach me at prateekdutta2001@gmail.com or https://www.linkedin.com/in/prateek-dutta-3622821a1/
+- IEEE SSIT Project Hackathon,2021- Winner
 
 <!---
 PrateekDutta2001/PrateekDutta2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
