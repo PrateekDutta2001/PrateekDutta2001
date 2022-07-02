@@ -7,6 +7,7 @@
 - 📫 Reach me at prateekdutta2001@gmail.com or https://www.linkedin.com/in/prateek-dutta-3622821a1/ 
 - web:- https://prateekduttaportfolio.wordpress.com/
 - IEEE SSIT Project Hackathon,2021- Winner
+- ADCAIJ International Journal, Spain - Editorial Member
 
 ![Prateek Dutta github stats](https://github-readme-stats.vercel.app/api?username=PrateekDutta2001&show_icons=true)
  [(source)](https://github.com/anuraghazra/github-readme-stats)
