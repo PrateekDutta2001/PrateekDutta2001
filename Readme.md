@@ -1,9 +1,10 @@
 - 👋 Hi, This is a Machine Learning Engineer by profession and passionate in Research serves as Reviewer & Author.
 - 👀 Domain of Interest lies in Deep Learning, Machine Learning, Data Analytics, AWS, NLP, Computer vision.
+- Data Science Engineer at Konverge.AI Pvt. Ltd., Nagpur, India
 - Research Intern at Curtin University, Malaysia
 - Research at King Abdulaziz University, Saudi Arabia
-- 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
-- 💞️ I’m looking to collaborate on Research Works
+- 🌱 Enthusiastic technology learner exploring skills around AI & Data Science collaborating with several Research projects
+- 💞️ Open to Collaborate & Contribute
 - 📫 Reach me at prateekdutta2001@gmail.com or https://www.linkedin.com/in/prateek-dutta-3622821a1/ 
 - web:- https://prateekduttaportfolio.wordpress.com/
 - IEEE SSIT Project Hackathon,2021- Winner
