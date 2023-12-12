@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Prateek Dutta, an AI Engineer & Data Analyst/ Scientist & a Young Researcher
-- 👀 I’m interested in Deep Learning, Machine Learning, Data Science and Research domain
+- 👋 Hi, This is a Machine Learning Engineer by profession and passionate in Research serves as Reviewer & Author.
+- 👀 Domain of Interest lies in Deep Learning, Machine Learning, Data Analytics, AWS, NLP, Computer vision.
 - Research Intern at Curtin University, Malaysia
 - Research at King Abdulaziz University, Saudi Arabia
 - 🌱 I’m currently learning and exploring skills around AI & Data Science and working on several Research projects
