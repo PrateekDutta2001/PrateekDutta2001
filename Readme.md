@@ -6,7 +6,7 @@
 - 🌱 Enthusiastic technology learner exploring skills around AI & Data Science collaborating with several Research projects
 - 💞️ Open to Collaborate & Contribute
 - 📫 Reach me at - https://prateekduttaportfolio.netlify.app/
-- IEEE SSIT Project Hackathon,2021- Winner
+- IEEE Project Hackathon,2021- Winner
 - ADCAIJ International Journal, Spain - Editorial Member
 
 ![Prateek Dutta github stats](https://github-readme-stats.vercel.app/api?username=PrateekDutta2001&show_icons=true)
