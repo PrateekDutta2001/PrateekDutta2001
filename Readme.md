@@ -1,7 +1,6 @@
 - 👋 Hi, This is a Machine Learning Engineer by profession and passionate in Research serves as Reviewer & Author.
 - 👀 Domain of Interest lies in Deep Learning, Machine Learning, Data Analytics, AWS, NLP, Computer vision, Generative AI, LLM.
-- Machine Learning Engineer at Dataevolve Solutions, Hyderabad, India
-- Data Science Engineer at Konverge.AI Pvt. Ltd., Nagpur, India
+- Analyst - Data Science & GenAI at KPMG India, Bengaluru, India
 - Research Intern at Curtin University, Malaysia
 - 🌱 Enthusiastic technology learner exploring skills around AI & Data Science collaborating with several Research projects
 - 💞️ Open to Collaborate & Contribute
