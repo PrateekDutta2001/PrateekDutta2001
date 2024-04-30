@@ -1,4 +1,4 @@
-- 👋 Hi, This is a Machine Learning Engineer by profession and passionate in Research serves as Reviewer & Author.
+- 👋 Hi, This is a Data & AI specialist by profession and passionate in Research serves as Reviewer & Author.
 - 👀 Domain of Interest lies in Deep Learning, Machine Learning, Data Analytics, AWS, NLP, Computer vision, Generative AI, LLM.
 - Analyst - Data Science & GenAI at KPMG India, Bengaluru, India
 - Research Intern at Curtin University, Malaysia
