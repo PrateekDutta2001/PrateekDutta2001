@@ -6,7 +6,7 @@
 - Research Associate at Curtin University, Malaysia
 - 🌱 Enthusiastic technology learner exploring skills around AI & Data Science collaborating with several Research projects
 - 💞️ Open to Collaborate & Contribute
-- 📫 Reach me at - https://prateekdutta.com
+- 📫 Reach me at - [prateekdutta.com](https://prateekduttaportfolio.netlify.app/)
 - IEEE Project Hackathon,2021- Winner
 - ADCAIJ International Journal, Spain - Editorial Member
 
