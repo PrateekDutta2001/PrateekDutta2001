@@ -1,6 +1,6 @@
 - 👋 Hi, This is a Data & AI specialist by profession and passionate in Research serves as Reviewer & Author.
 - 👀 Domain of Interest lies in Deep Learning, Machine Learning, NLP, Computer vision, GenAI, LLM, RAG. AgenticAI, AWS, SQL, PowerBI, Dash, Python, FastAPI, FlaskAPI.
-- Sr. AI Developer - (Risk Advisory-Center of Excellence-Data Analytics Team) at KPMG India, Bengaluru, India
+- Sr. AI Developer - (Risk Advisory-Center of Excellence Team) at KPMG India, Bengaluru, India
 - Machine Learning Engineer - Dataevolve Solutions (Hyderabad) - Contributed in the developement of DigiYatra.
 - Data Science Engineer - Konverge.AI (Nagpur) - Contributed in the Product for B2B
 - Research Associate at Curtin University, Malaysia
